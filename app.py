@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "<h1 style='color:blue'>Jenkins CICD pipeline project</h1>"
+    return "<h1 style='color:gray'>Jenkins CICD pipeline </h1>"
     
 def add(a,b):
   print("ADD value")
