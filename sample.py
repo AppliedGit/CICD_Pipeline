@@ -1,1 +1,0 @@
-print("Jenkins CICD pipeline")
